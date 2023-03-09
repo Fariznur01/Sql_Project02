@@ -28,7 +28,7 @@
 ## About The Project
 Sebuah perusahaan yang bergerak di bidang farmasi ini hadir untuk kegiatan manufaktur farmasi, riset dan pengembangan, distribusi dan perdagangan, pemasaran,
 ritel farmasi, laboratorium klinik dan klinik kesehatan. 
-Dalam tugas askhir ini, sebagai big data analytics data dari sebuah perusahaan farmasi akan analisis performa bisnis seperti analisis customer(klien) dan 
+Dalam tugas akhir ini, sebagai big data analytics data dari sebuah perusahaan farmasi akan analisis performa bisnis seperti analisis customer(klien) dan 
 analisis produk penjualan. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
