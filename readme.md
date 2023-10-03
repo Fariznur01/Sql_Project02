@@ -17,7 +17,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#dataset"> Dataset </a></li>
     <li><a href="#dataset"> Etl Pentaho </a></li>
     <li><a href="#analisis">Analisis</a></li>
     <li><a href="#author">Author</a></li>
@@ -33,15 +32,6 @@ analisis produk penjualan.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Dataset
-Dataset:  [https://drive.google.com/drive/folders/1cIDVqE9o0W_4T4g-mMREn_QCstZRlmqh?usp=share_link](https://drive.google.com/drive/folders/1hOWMH485sOUSbYkFjAh-HpbcLMwsiRuH?usp=sharing)
-
-* Tabel Data customer
-* Tabel Data barang
-* Tabel Data penjualan
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Etl -->
 ## Etl Pentaho
